@@ -19,11 +19,8 @@ async function Home(params:any) {
   })
 
   return (
-    <div>
+  
 
-
-
-    </div>
   )
 }
 
